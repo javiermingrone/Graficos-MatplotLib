@@ -13,5 +13,3 @@ pl.axis("equal")
 pl.xticks(())
 pl.yticks()
 pl.show()
-
-prepare_predicate
